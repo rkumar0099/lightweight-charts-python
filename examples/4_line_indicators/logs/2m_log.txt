@@ -1,0 +1,8 @@
+date            2025-01-21 23:02:00
+open                       103182.7
+high                       103188.3
+low                        102810.2
+close                      103020.8
+volume                      894.842
+quote_volume          92140457.9288
+dtype: object

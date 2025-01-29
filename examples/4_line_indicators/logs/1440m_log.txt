@@ -1,0 +1,336 @@
+Unnamed: 0                        0
+date            2024-12-01 08:00:00
+open                        96475.2
+high                        96475.2
+low                         96428.5
+close                       96428.5
+volume                       43.616
+quote_volume           4206837.3846
+Name: 0, dtype: object
+date              2024-12-02 07:59:00
+open                          96475.2
+high                          97933.0
+low                           95736.5
+close                         97265.1
+volume                      113222.99
+quote_volume       10975143904.855898
+weighted_value     10980161768.818001
+dtype: object
+high_t=06:00:00, low_t=10:58:00
+date              2024-12-03 07:59:00
+open                          97265.0
+high                          98266.0
+low                           94400.0
+close                         95890.5
+volume                     257613.911
+quote_volume       24755123881.907917
+weighted_value     24778722836.490475
+dtype: object
+high_t=09:31:00, low_t=01:59:00
+date              2024-12-04 07:59:00
+open                          95890.6
+high                          96375.0
+low                           93605.0
+close                         95913.3
+volume                      206601.98
+quote_volume       19688305230.345161
+weighted_value     19688707282.911346
+dtype: object
+high_t=10:40:00, low_t=22:34:00
+date              2024-12-05 07:59:00
+open                          95913.3
+high                          99099.9
+low                           94650.8
+close                         98669.8
+volume                     275949.205
+quote_volume       26698552379.624001
+weighted_value     26897734833.567486
+dtype: object
+high_t=04:51:00, low_t=00:51:00
+date              2024-12-06 07:59:00
+open                          98669.8
+high                         104630.4
+low                           90200.0
+close                         97001.5
+volume                     580277.391
+quote_volume       58190879933.223007
+weighted_value     56447817847.524277
+dtype: object
+high_t=11:08:00, low_t=06:28:00
+date              2024-12-07 07:59:00
+open                          97001.6
+high                         101988.8
+low                           96429.5
+close                         99802.5
+volume                     282369.608
+quote_volume       27983159150.538219
+weighted_value     28069496797.815403
+dtype: object
+high_t=04:42:00, low_t=08:11:00
+date              2024-12-08 07:59:00
+open                          99802.5
+high                         100499.0
+low                           98876.9
+close                         99899.2
+volume                      95858.658
+quote_volume        9559737335.791807
+weighted_value      9562703152.938601
+dtype: object
+high_t=09:02:00, low_t=13:45:00
+date              2024-12-09 07:59:00
+open                          99899.2
+high                         101457.9
+low                           98709.4
+close                        101200.0
+volume                     109755.676
+quote_volume       10964662734.310623
+weighted_value     11025590578.598259
+dtype: object
+high_t=07:56:00, low_t=17:55:00
+date              2024-12-10 07:59:00
+open                         101200.1
+high                         101300.0
+low                           94039.7
+close                         97349.1
+volume                      326973.59
+quote_volume       32095240187.155304
+weighted_value     31900502562.930653
+dtype: object
+high_t=08:00:00, low_t=05:05:00
+long_entries=[], short_entries=[97349.1], open=('2024-12-01', 101200.1, '08:00:00'), high_p=(101300.0, '08:00:00'), low_p=(94039.7, '05:05:00'), close_p=('2024-12-10', 97349.1, '07:59:00'), shorts_opened=1, longs_opened=0
+0, 97349.1
+date              2024-12-11 07:59:00
+open                          97349.1
+high                          98320.6
+low                           94265.5
+close                         96602.4
+volume                     291490.744
+quote_volume       28129042004.195457
+weighted_value      28098590340.41465
+dtype: object
+high_t=22:48:00, low_t=02:12:00
+date              2024-12-12 07:59:00
+open                          96602.3
+high                         101880.0
+low                           95650.0
+close                        101115.3
+volume                     221807.705
+quote_volume        21990321141.77166
+weighted_value     22080609534.012146
+dtype: object
+high_t=06:06:00, low_t=09:59:00
+date              2024-12-13 07:59:00
+open                         101115.3
+high                         102538.4
+low                           99280.2
+close                         99982.4
+volume                     215219.075
+quote_volume       21703839602.325912
+weighted_value     21651110684.691643
+dtype: object
+high_t=00:16:00, low_t=03:47:00
+date              2024-12-14 07:59:00
+open                          99982.3
+high                         101869.5
+low                           99149.6
+close                        101371.9
+volume                     152437.318
+quote_volume       15327839534.234295
+weighted_value     15365224342.445993
+dtype: object
+high_t=02:41:00, low_t=09:51:00
+long_entries=[], short_entries=[97349.1, 101371.9], open=('2024-12-01', 99982.3, '08:00:00'), high_p=(101869.5, '02:41:00'), low_p=(99149.6, '09:51:00'), close_p=('2024-12-14', 101371.9, '07:59:00'), shorts_opened=1, longs_opened=0
+0, 99360.5
+date              2024-12-15 07:59:00
+open                         101371.9
+high                         102638.0
+low                          100559.8
+close                        101381.0
+volume                     107680.549
+quote_volume       10931716374.335093
+weighted_value     10932404132.587061
+dtype: object
+high_t=09:27:00, low_t=04:53:00
+date              2024-12-16 07:59:00
+open                         101381.0
+high                         105374.6
+low                          101200.1
+close                        104460.4
+volume                     157733.916
+quote_volume       16239310087.650608
+weighted_value     16353594778.817207
+dtype: object
+high_t=07:27:00, low_t=08:40:00
+date              2024-12-17 07:59:00
+open                         104460.5
+high                         107777.0
+low                          103264.6
+close                        106023.2
+volume                     274395.756
+quote_volume       28967203114.562283
+weighted_value     29000411832.329617
+dtype: object
+high_t=02:23:00, low_t=20:50:00
+date              2024-12-18 07:59:00
+open                         106023.2
+high                         108366.8
+low                          105252.0
+close                        106074.6
+volume                     197773.912
+quote_volume        21115019475.69989
+weighted_value     21075671452.860279
+dtype: object
+high_t=22:57:00, low_t=06:45:00
+date              2024-12-19 07:59:00
+open                         106074.6
+high                         106484.6
+low                           99951.1
+close                        100181.1
+volume                     328581.935
+quote_volume       33924249957.018345
+weighted_value      33582913815.83593
+dtype: object
+high_t=09:05:00, low_t=07:58:00
+date              2024-12-20 07:59:00
+open                         100181.2
+high                         102756.7
+low                           95681.2
+close                         97434.4
+volume                     372968.463
+quote_volume       37081222303.662094
+weighted_value     36783678991.758255
+dtype: object
+high_t=22:35:00, low_t=04:13:00
+date              2024-12-21 07:59:00
+open                          97434.3
+high                          98243.0
+low                           92272.6
+close                         97764.4
+volume                     396188.795
+quote_volume       37958727658.274223
+weighted_value     38071101940.866722
+dtype: object
+high_t=15:31:00, low_t=20:17:00
+date              2024-12-22 07:59:00
+open                          97764.5
+high                          99485.0
+low                           96375.0
+close                         97261.8
+volume                      161258.48
+quote_volume       15758501543.968731
+weighted_value     15756125307.621328
+dtype: object
+high_t=15:44:00, low_t=21:33:00
+date              2024-12-23 07:59:00
+open                          97261.7
+high                          97437.9
+low                           94200.0
+close                         95153.5
+volume                     148114.735
+quote_volume       14215963268.650591
+weighted_value      14159344070.42635
+dtype: object
+high_t=08:38:00, low_t=06:10:00
+date              2024-12-24 07:59:00
+open                          95153.4
+high                          96499.0
+low                           92464.4
+close                         94861.1
+volume                     247211.855
+quote_volume       23352438472.944004
+weighted_value     23388260379.815815
+dtype: object
+high_t=19:02:00, low_t=04:16:00
+date              2024-12-25 07:59:00
+open                          94861.0
+high                          99450.0
+low                           93525.6
+close                         98627.2
+volume                     211610.632
+quote_volume       20467193731.427917
+weighted_value     20568750933.656551
+dtype: object
+high_t=02:16:00, low_t=10:21:00
+date              2024-12-26 07:59:00
+open                          98626.9
+high                          99580.7
+low                           97570.0
+close                         99379.7
+volume                     124696.892
+quote_volume        12284101310.06621
+weighted_value     12325473087.838951
+dtype: object
+high_t=05:04:00, low_t=20:01:00
+date              2024-12-27 07:59:00
+open                          99379.6
+high                          99950.0
+low                           95153.0
+close                         95751.0
+volume                     194857.651
+quote_volume       18828963496.909988
+weighted_value     18891709074.651302
+dtype: object
+high_t=08:09:00, low_t=18:13:00
+date              2024-12-28 07:59:00
+open                          95750.9
+high                          97564.5
+low                           93440.0
+close                         94258.9
+volume                     206008.243
+quote_volume       19664748484.443214
+weighted_value     19588870608.735439
+dtype: object
+high_t=17:06:00, low_t=01:24:00
+date              2024-12-29 07:59:00
+open                          94258.9
+high                          95700.0
+low                           94100.0
+close                         95259.1
+volume                      67991.349
+quote_volume        6441586533.229093
+weighted_value      6460517584.575313
+dtype: object
+high_t=06:52:00, low_t=09:25:00
+date              2024-12-30 07:59:00
+open                          95259.1
+high                          95300.0
+low                           92961.8
+close                         93700.0
+volume                      95047.934
+quote_volume         8949366966.58029
+weighted_value      8933295518.973728
+dtype: object
+high_t=08:00:00, low_t=07:11:00
+date              2024-12-31 07:59:00
+open                          93699.9
+high                          95031.6
+low                           91510.0
+close                         92759.3
+volume                     222343.593
+quote_volume       20718759693.373993
+weighted_value     20700255211.377899
+dtype: object
+high_t=04:24:00, low_t=23:24:00
+date              2025-01-01 07:59:00
+open                          92759.3
+high                          96254.3
+low                           92000.0
+close                         93548.9
+volume                     178648.116
+quote_volume       16839152825.528475
+weighted_value     16781203587.590397
+dtype: object
+high_t=22:33:00, low_t=09:31:00
+date              2025-01-01 07:59:00
+open                          92759.3
+high                          96254.3
+low                           92000.0
+close                         93548.9
+volume                     178648.116
+quote_volume       16839152825.528475
+weighted_value     16781203587.590397
+dtype: object
+high_t=22:33:00, low_t=09:31:00
+long_entries=0, short_entries=2, open=('2024-12-01', 92759.3, '08:00:00'), high_p=(96254.3, '22:33:00'), low_p=(92000.0, '09:31:00'), close_p=('2025-01-01', 93548.9, '07:59:00')
+2024-12-10, ('long_entries=[]', 'short_entries=[97349.1]', 0, 97349.1)
+2024-12-14, ('long_entries=[]', 'short_entries=[101371.9]', 0, 99360.5)

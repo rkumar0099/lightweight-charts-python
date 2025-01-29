@@ -1,0 +1,532 @@
+Unnamed: 0                        0
+date            2024-11-14 08:00:00
+open                        90413.3
+high                        90550.2
+low                         90396.0
+close                       90485.6
+volume                      302.746
+quote_volume          27395186.8364
+Name: 0, dtype: object
+date              2024-11-14 08:29:00
+open                          90413.3
+high                          90550.2
+low                           89953.7
+close                         90089.6
+volume                       5605.159
+quote_volume           505819476.0431
+weighted_value       505573197.288833
+dtype: object
+date              2024-11-14 08:59:00
+open                          90089.6
+high                          90390.5
+low                           89736.8
+close                         90151.6
+volume                       6416.916
+quote_volume           577547291.8307
+weighted_value         578118999.2908
+dtype: object
+date              2024-11-14 09:29:00
+open                          90151.6
+high                          90478.6
+low                           89711.0
+close                         89759.3
+volume                        5693.43
+quote_volume           512981798.8193
+weighted_value          512311721.909
+dtype: object
+date              2024-11-14 09:59:00
+open                          89759.3
+high                          90508.8
+low                           89531.7
+close                         90420.1
+volume                       5445.838
+quote_volume           489947473.2347
+weighted_value       490961537.660933
+dtype: object
+date              2024-11-14 10:29:00
+open                          90420.1
+high                          90642.5
+low                           89790.0
+close                         89989.2
+volume                       4373.203
+quote_volume           394613659.5871
+weighted_value       394202996.568367
+dtype: object
+long_entries=[89989.2], short_entries=[], open=('2024-11-14', 90420.1, None), high_p=(90642.5, None), low_p=(89790.0, None), close_p=('2024-11-14', 89989.2, '10:29:00'), shorts_opened=0, longs_opened=1
+89989.2, 0
+date              2024-11-14 10:59:00
+open                          89989.1
+high                          90229.0
+low                           89706.1
+close                         90145.3
+volume                       3794.132
+quote_volume           341195620.1144
+weighted_value         341573562.7376
+dtype: object
+long_entries=[89989.2], short_entries=[90145.3], open=('2024-11-14', 89989.1, None), high_p=(90229.0, None), low_p=(89706.1, None), close_p=('2024-11-14', 90145.3, '10:59:00'), shorts_opened=1, longs_opened=1
+89989.2, 90145.3
+date              2024-11-14 11:29:00
+open                          90145.3
+high                          90277.0
+low                           89567.2
+close                         89947.4
+volume                       3972.841
+quote_volume           356996849.7113
+weighted_value       357279709.978533
+dtype: object
+long_entries=[89989.2], short_entries=[90145.3], open=('2024-11-14', 90145.3, None), high_p=(90277.0, None), low_p=(89567.2, None), close_p=('2024-11-14', 89947.4, '11:29:00'), shorts_opened=1, longs_opened=1
+89989.2, 90145.3
+date              2024-11-14 11:59:00
+open                          89947.5
+high                          90128.9
+low                           89781.0
+close                         89988.0
+volume                       2563.687
+quote_volume           230703228.0414
+weighted_value       230644579.185767
+dtype: object
+long_entries=[89989.2, 89988.0], short_entries=[90145.3], open=('2024-11-14', 89947.5, None), high_p=(90128.9, None), low_p=(89781.0, None), close_p=('2024-11-14', 89988.0, '11:59:00'), shorts_opened=1, longs_opened=2
+89988.6, 90145.3
+date              2024-11-14 12:29:00
+open                          89988.1
+high                          90009.0
+low                           89662.7
+close                         89710.5
+volume                        2594.88
+quote_volume           233069941.1252
+weighted_value          233004827.712
+dtype: object
+long_entries=[89989.2, 89988.0], short_entries=[90145.3], open=('2024-11-14', 89988.1, None), high_p=(90009.0, None), low_p=(89662.7, None), close_p=('2024-11-14', 89710.5, '12:29:00'), shorts_opened=1, longs_opened=2
+89988.6, 90145.3
+date              2024-11-14 12:59:00
+open                          89710.6
+high                          90258.2
+low                           89333.8
+close                         90169.2
+volume                       5395.677
+quote_volume           484584762.0512
+weighted_value         485181434.1108
+dtype: object
+long_entries=[89989.2, 89988.0], short_entries=[90145.3], open=('2024-11-14', 89710.6, None), high_p=(90258.2, None), low_p=(89333.8, None), close_p=('2024-11-14', 90169.2, '12:59:00'), shorts_opened=1, longs_opened=2
+89988.6, 90145.3
+date              2024-11-14 13:29:00
+open                          90169.1
+high                          90169.1
+low                           89736.3
+close                         89902.6
+volume                        2713.64
+quote_volume           244109647.0505
+weighted_value           244053927.04
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6], short_entries=[90145.3, 89902.6], open=('2024-11-14', 90169.1, None), high_p=(90169.1, None), low_p=(89736.3, None), close_p=('2024-11-14', 89902.6, '13:29:00'), shorts_opened=2, longs_opened=3
+89959.93333333333, 90023.95000000001
+date              2024-11-14 13:59:00
+open                          89902.7
+high                          90067.5
+low                           89692.3
+close                         90006.7
+volume                       2024.299
+quote_volume           181993284.6752
+weighted_value       182029352.061167
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6], short_entries=[90145.3, 89902.6], open=('2024-11-14', 89902.7, None), high_p=(90067.5, None), low_p=(89692.3, None), close_p=('2024-11-14', 90006.7, '13:59:00'), shorts_opened=2, longs_opened=3
+89959.93333333333, 90023.95000000001
+date              2024-11-14 14:29:00
+open                          90006.8
+high                          90349.1
+low                           89958.5
+close                         90020.0
+volume                       3059.773
+quote_volume           275925339.1825
+weighted_value         275713697.2116
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6], short_entries=[90145.3, 89902.6], open=('2024-11-14', 90006.8, None), high_p=(90349.1, None), low_p=(89958.5, None), close_p=('2024-11-14', 90020.0, '14:29:00'), shorts_opened=2, longs_opened=3
+89959.93333333333, 90023.95000000001
+date              2024-11-14 14:59:00
+open                          90020.0
+high                          90029.4
+low                           89311.1
+close                         89336.2
+volume                       4630.577
+quote_volume           415416366.1388
+weighted_value         414709382.4853
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6], short_entries=[90145.3, 89902.6, 89336.2], open=('2024-11-14', 90020.0, None), high_p=(90029.4, None), low_p=(89311.1, None), close_p=('2024-11-14', 89336.2, '14:59:00'), shorts_opened=3, longs_opened=3
+89959.93333333333, 89794.7
+date              2024-11-14 15:29:00
+open                          89336.2
+high                          89827.0
+low                           89095.5
+close                         89804.7
+volume                       7085.611
+quote_volume           634321063.6278
+weighted_value       634698801.439733
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6], short_entries=[90145.3, 89902.6, 89336.2], open=('2024-11-14', 89336.2, None), high_p=(89827.0, None), low_p=(89095.5, None), close_p=('2024-11-14', 89804.7, '15:29:00'), shorts_opened=3, longs_opened=3
+89959.93333333333, 89794.7
+date              2024-11-14 15:59:00
+open                          89804.7
+high                          90900.0
+low                           89650.0
+close                         90818.9
+volume                       7949.188
+quote_volume           718674799.2477
+weighted_value         719054134.4844
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9], short_entries=[90145.3, 89902.6, 89336.2], open=('2024-11-14', 89804.7, None), high_p=(90900.0, None), low_p=(89650.0, None), close_p=('2024-11-14', 90818.9, '15:59:00'), shorts_opened=3, longs_opened=4
+90174.675, 89794.7
+date              2024-11-14 16:29:00
+open                          90818.9
+high                          91489.4
+low                           90680.2
+close                         91157.4
+volume                      11158.366
+quote_volume          1016905317.2521
+weighted_value         1016627567.894
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9], short_entries=[90145.3, 89902.6, 89336.2], open=('2024-11-14', 90818.9, None), high_p=(91489.4, None), low_p=(90680.2, None), close_p=('2024-11-14', 91157.4, '16:29:00'), shorts_opened=3, longs_opened=4
+90174.675, 89794.7
+date              2024-11-14 16:59:00
+open                          91157.4
+high                          91260.3
+low                           90370.0
+close                         90595.0
+volume                        8326.19
+quote_volume           756278031.5983
+weighted_value       755533190.202334
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9], short_entries=[90145.3, 89902.6, 89336.2, 90595.0], open=('2024-11-14', 91157.4, None), high_p=(91260.3, None), low_p=(90370.0, None), close_p=('2024-11-14', 90595.0, '16:59:00'), shorts_opened=4, longs_opened=4
+90174.675, 89994.775
+date              2024-11-14 17:29:00
+open                          90595.0
+high                          90950.0
+low                           90420.0
+close                         90684.4
+volume                       4517.643
+quote_volume           409685607.2698
+weighted_value         409681551.9264
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4], short_entries=[90145.3, 89902.6, 89336.2, 90595.0], open=('2024-11-14', 90595.0, None), high_p=(90950.0, None), low_p=(90420.0, None), close_p=('2024-11-14', 90684.4, '17:29:00'), shorts_opened=4, longs_opened=5
+90276.62, 89994.775
+date              2024-11-14 17:59:00
+open                          90684.4
+high                          90955.0
+low                           90394.3
+close                         90944.5
+volume                       3787.366
+quote_volume           343334772.0414
+weighted_value         343758760.0436
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4], short_entries=[90145.3, 89902.6, 89336.2, 90595.0], open=('2024-11-14', 90684.4, None), high_p=(90955.0, None), low_p=(90394.3, None), close_p=('2024-11-14', 90944.5, '17:59:00'), shorts_opened=4, longs_opened=5
+90276.62, 89994.775
+date              2024-11-14 18:29:00
+open                          90944.0
+high                          91474.0
+low                           90889.6
+close                         91136.2
+volume                        6649.69
+quote_volume           606754788.8371
+weighted_value          606229628.354
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4], short_entries=[90145.3, 89902.6, 89336.2, 90595.0], open=('2024-11-14', 90944.0, None), high_p=(91474.0, None), low_p=(90889.6, None), close_p=('2024-11-14', 91136.2, '18:29:00'), shorts_opened=4, longs_opened=5
+90276.62, 89994.775
+date              2024-11-14 18:59:00
+open                          91136.1
+high                          91467.4
+low                           90867.3
+close                         91140.2
+volume                       6012.432
+quote_volume            547989655.009
+weighted_value         548083079.9856
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4], short_entries=[90145.3, 89902.6, 89336.2, 90595.0], open=('2024-11-14', 91136.1, None), high_p=(91467.4, None), low_p=(90867.3, None), close_p=('2024-11-14', 91140.2, '18:59:00'), shorts_opened=4, longs_opened=5
+90276.62, 89994.775
+date              2024-11-14 19:29:00
+open                          91140.2
+high                          91284.7
+low                           90500.0
+close                         91263.8
+volume                       9282.879
+quote_volume           843374187.1098
+weighted_value         844892062.2105
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4], short_entries=[90145.3, 89902.6, 89336.2, 90595.0], open=('2024-11-14', 91140.2, None), high_p=(91284.7, None), low_p=(90500.0, None), close_p=('2024-11-14', 91263.8, '19:29:00'), shorts_opened=4, longs_opened=5
+90276.62, 89994.775
+date              2024-11-14 19:59:00
+open                          91263.8
+high                          91726.1
+low                           90780.0
+close                         91536.7
+volume                       8381.956
+quote_volume           765705582.2598
+weighted_value         765671563.9056
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7], short_entries=[90145.3, 89902.6, 89336.2, 90595.0], open=('2024-11-14', 91263.8, None), high_p=(91726.1, None), low_p=(90780.0, None), close_p=('2024-11-14', 91536.7, '19:59:00'), shorts_opened=4, longs_opened=5
+90486.63333333333, 89994.775
+date              2024-11-14 20:29:00
+open                          91536.8
+high                          91645.0
+low                           91167.2
+close                         91298.1
+volume                       6525.895
+quote_volume           596511311.7073
+weighted_value         596271678.7395
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1], open=('2024-11-14', 91536.8, None), high_p=(91645.0, None), low_p=(91167.2, None), close_p=('2024-11-14', 91298.1, '20:29:00'), shorts_opened=5, longs_opened=5
+90486.63333333333, 90255.44
+date              2024-11-14 20:59:00
+open                          91298.1
+high                          91372.8
+low                           90965.0
+close                         91278.3
+volume                       4070.422
+quote_volume           371125274.8478
+weighted_value       371244330.998067
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1], open=('2024-11-14', 91298.1, None), high_p=(91372.8, None), low_p=(90965.0, None), close_p=('2024-11-14', 91278.3, '20:59:00'), shorts_opened=5, longs_opened=5
+90486.63333333333, 90255.44
+date              2024-11-14 21:29:00
+open                          91278.3
+high                          91430.0
+low                           90938.1
+close                         90973.6
+volume                       3427.519
+quote_volume             312364887.47
+weighted_value         312294623.4141
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1], open=('2024-11-14', 91278.3, None), high_p=(91430.0, None), low_p=(90938.1, None), close_p=('2024-11-14', 90973.6, '21:29:00'), shorts_opened=5, longs_opened=5
+90486.63333333333, 90255.44
+date              2024-11-14 21:59:00
+open                          90973.7
+high                          91263.1
+low                           90613.9
+close                         90797.5
+volume                       8534.644
+quote_volume           775410969.1934
+weighted_value          775726595.126
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5], open=('2024-11-14', 90973.7, None), high_p=(91263.1, None), low_p=(90613.9, None), close_p=('2024-11-14', 90797.5, '21:59:00'), shorts_opened=6, longs_opened=5
+90486.63333333333, 90345.78333333334
+date              2024-11-14 22:29:00
+open                          90797.5
+high                          91349.1
+low                           90581.3
+close                         91320.1
+volume                       6480.547
+quote_volume           589475764.3288
+weighted_value         590270902.6745
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5], open=('2024-11-14', 90797.5, None), high_p=(91349.1, None), low_p=(90581.3, None), close_p=('2024-11-14', 91320.1, '22:29:00'), shorts_opened=6, longs_opened=5
+90486.63333333333, 90345.78333333334
+date              2024-11-14 22:59:00
+open                          91320.1
+high                          91846.1
+low                           88710.0
+close                         88769.2
+volume                       38177.42
+quote_volume          3437278279.2082
+weighted_value         3427381698.242
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5], open=('2024-11-14', 91320.1, None), high_p=(91846.1, None), low_p=(88710.0, None), close_p=('2024-11-14', 88769.2, '22:59:00'), shorts_opened=6, longs_opened=5
+90486.63333333333, 90345.78333333334
+date              2024-11-14 23:29:00
+open                          88769.1
+high                          89650.8
+low                           88289.0
+close                         89192.8
+volume                      21161.048
+quote_volume          1882356554.2587
+weighted_value        1884268590.3216
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5], open=('2024-11-14', 88769.1, None), high_p=(89650.8, None), low_p=(88289.0, None), close_p=('2024-11-14', 89192.8, '23:29:00'), shorts_opened=6, longs_opened=5
+90486.63333333333, 90345.78333333334
+date              2024-11-14 23:59:00
+open                          89192.7
+high                          89200.0
+low                           87855.0
+close                         88000.0
+volume                       18059.81
+quote_volume          1598522371.5653
+weighted_value      1595614313.183333
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5], open=('2024-11-14', 89192.7, None), high_p=(89200.0, None), low_p=(87855.0, None), close_p=('2024-11-14', 88000.0, '23:59:00'), shorts_opened=6, longs_opened=5
+90486.63333333333, 90345.78333333334
+date              2024-11-15 00:29:00
+open                          87999.9
+high                          88586.9
+low                           87555.0
+close                         88269.1
+volume                      18153.237
+quote_volume          1599052808.9217
+weighted_value         1599971849.469
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5], open=('2024-11-14', 87999.9, None), high_p=(88586.9, None), low_p=(87555.0, None), close_p=('2024-11-15', 88269.1, '00:29:00'), shorts_opened=6, longs_opened=5
+90486.63333333333, 90345.78333333334
+date              2024-11-15 00:59:00
+open                          88269.1
+high                          89280.0
+low                           88209.6
+close                         89225.9
+volume                      10894.338
+quote_volume           967483411.1713
+weighted_value          968562935.613
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7, 89225.9], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5], open=('2024-11-14', 88269.1, None), high_p=(89280.0, None), low_p=(88209.6, None), close_p=('2024-11-15', 89225.9, '00:59:00'), shorts_opened=6, longs_opened=6
+90306.52857142857, 90345.78333333334
+date              2024-11-15 01:29:00
+open                          89225.8
+high                          89277.0
+low                           88630.0
+close                         88632.7
+volume                       5706.348
+quote_volume           507674986.3136
+weighted_value         506989428.0052
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7, 89225.9], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5], open=('2024-11-14', 89225.8, None), high_p=(89277.0, None), low_p=(88630.0, None), close_p=('2024-11-15', 88632.7, '01:29:00'), shorts_opened=6, longs_opened=6
+90306.52857142857, 90345.78333333334
+date              2024-11-15 01:59:00
+open                          88632.7
+high                          89414.0
+low                           88619.7
+close                         89265.9
+volume                       6860.465
+quote_volume             611239447.96
+weighted_value       611266516.771333
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7, 89225.9], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5], open=('2024-11-14', 88632.7, None), high_p=(89414.0, None), low_p=(88619.7, None), close_p=('2024-11-15', 89265.9, '01:59:00'), shorts_opened=6, longs_opened=6
+90306.52857142857, 90345.78333333334
+date              2024-11-15 02:29:00
+open                          89265.9
+high                          89763.9
+low                           89112.9
+close                         89386.5
+volume                       6006.626
+quote_volume           537738059.3247
+weighted_value         537119104.2086
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7, 89225.9], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5], open=('2024-11-14', 89265.9, None), high_p=(89763.9, None), low_p=(89112.9, None), close_p=('2024-11-15', 89386.5, '02:29:00'), shorts_opened=6, longs_opened=6
+90306.52857142857, 90345.78333333334
+date              2024-11-15 02:59:00
+open                          89386.5
+high                          89458.0
+low                           88952.0
+close                         89142.2
+volume                       4391.509
+quote_volume           391606911.5338
+weighted_value       391652631.423267
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7, 89225.9], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5, 89142.2], open=('2024-11-14', 89386.5, None), high_p=(89458.0, None), low_p=(88952.0, None), close_p=('2024-11-15', 89142.2, '02:59:00'), shorts_opened=7, longs_opened=6
+90306.52857142857, 90173.84285714285
+date              2024-11-15 03:29:00
+open                          89142.2
+high                          89680.0
+low                           89142.2
+close                         89559.9
+volume                       3388.745
+quote_volume           303289247.2983
+weighted_value         303159499.8215
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7, 89225.9, 89559.9], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5, 89142.2], open=('2024-11-14', 89142.2, None), high_p=(89680.0, None), low_p=(89142.2, None), close_p=('2024-11-15', 89559.9, '03:29:00'), shorts_opened=7, longs_opened=7
+90213.2, 90173.84285714285
+date              2024-11-15 03:59:00
+open                          89560.0
+high                          89704.9
+low                           89220.0
+close                         89502.7
+volume                       3600.224
+quote_volume           322054159.2985
+weighted_value       322133162.594133
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7, 89225.9, 89559.9], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5, 89142.2], open=('2024-11-14', 89560.0, None), high_p=(89704.9, None), low_p=(89220.0, None), close_p=('2024-11-15', 89502.7, '03:59:00'), shorts_opened=7, longs_opened=7
+90213.2, 90173.84285714285
+date              2024-11-15 04:29:00
+open                          89502.6
+high                          89502.6
+low                           88000.0
+close                         88473.3
+volume                      12513.656
+quote_volume          1108442364.6778
+weighted_value      1109443638.963467
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7, 89225.9, 89559.9], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5, 89142.2], open=('2024-11-14', 89502.6, None), high_p=(89502.6, None), low_p=(88000.0, None), close_p=('2024-11-15', 88473.3, '04:29:00'), shorts_opened=7, longs_opened=7
+90213.2, 90173.84285714285
+date              2024-11-15 04:59:00
+open                          88473.3
+high                          88545.6
+low                           87623.8
+close                         87668.9
+volume                       8300.787
+quote_volume           730358852.3668
+weighted_value         730021843.5807
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7, 89225.9, 89559.9], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5, 89142.2], open=('2024-11-14', 88473.3, None), high_p=(88545.6, None), low_p=(87623.8, None), close_p=('2024-11-15', 87668.9, '04:59:00'), shorts_opened=7, longs_opened=7
+90213.2, 90173.84285714285
+date              2024-11-15 05:29:00
+open                          87669.0
+high                          88144.5
+low                           87061.3
+close                         88121.4
+volume                      11228.402
+quote_volume           983492460.5293
+weighted_value       985581219.711467
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7, 89225.9, 89559.9], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5, 89142.2], open=('2024-11-14', 87669.0, None), high_p=(88144.5, None), low_p=(87061.3, None), close_p=('2024-11-15', 88121.4, '05:29:00'), shorts_opened=7, longs_opened=7
+90213.2, 90173.84285714285
+date              2024-11-15 05:59:00
+open                          88121.4
+high                          88316.9
+low                           87740.9
+close                         88262.5
+volume                       5402.192
+quote_volume           475951271.4515
+weighted_value       475969670.032533
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7, 89225.9, 89559.9, 88262.5], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5, 89142.2], open=('2024-11-14', 88121.4, None), high_p=(88316.9, None), low_p=(87740.9, None), close_p=('2024-11-15', 88262.5, '05:59:00'), shorts_opened=7, longs_opened=8
+89996.45555555556, 90173.84285714285
+date              2024-11-15 06:29:00
+open                          88262.4
+high                          88400.0
+low                           87500.4
+close                         87787.1
+volume                       5407.494
+quote_volume           475607703.8591
+weighted_value          475296191.375
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7, 89225.9, 89559.9, 88262.5], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5, 89142.2], open=('2024-11-14', 88262.4, None), high_p=(88400.0, None), low_p=(87500.4, None), close_p=('2024-11-15', 87787.1, '06:29:00'), shorts_opened=7, longs_opened=8
+89996.45555555556, 90173.84285714285
+date              2024-11-15 06:59:00
+open                          87787.1
+high                          88143.0
+low                           87073.2
+close                         87668.6
+volume                       6127.142
+quote_volume           536793993.5793
+weighted_value       536910833.080533
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7, 89225.9, 89559.9, 88262.5], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5, 89142.2, 87668.6], open=('2024-11-14', 87787.1, None), high_p=(88143.0, None), low_p=(87073.2, None), close_p=('2024-11-15', 87668.6, '06:59:00'), shorts_opened=8, longs_opened=8
+89996.45555555556, 89860.6875
+date              2024-11-15 07:29:00
+open                          87668.6
+high                          87816.2
+low                           87000.0
+close                         87478.9
+volume                       8252.678
+quote_volume           720461361.0579
+weighted_value         721545667.0926
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7, 89225.9, 89559.9, 88262.5], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5, 89142.2, 87668.6], open=('2024-11-14', 87668.6, None), high_p=(87816.2, None), low_p=(87000.0, None), close_p=('2024-11-15', 87478.9, '07:29:00'), shorts_opened=8, longs_opened=8
+89996.45555555556, 89860.6875
+date              2024-11-15 07:59:00
+open                          87478.2
+high                          87478.2
+low                           86714.0
+close                         87382.7
+volume                      10515.159
+quote_volume           915968829.5513
+weighted_value         916833887.9697
+dtype: object
+long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7, 89225.9, 89559.9, 88262.5], short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5, 89142.2, 87668.6], open=('2024-11-14', 87478.2, None), high_p=(87478.2, None), low_p=(86714.0, None), close_p=('2024-11-15', 87382.7, '07:59:00'), shorts_opened=8, longs_opened=8
+89996.45555555556, 89860.6875
+long_entries=9, short_entries=8, open=('2024-11-14', 87478.2, None), high_p=(87478.2, None), low_p=(86714.0, None), close_p=('2024-11-15', 87382.7, '07:59:00')
+2024-11-14, ('long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7]', 'short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5]', 90486.63333333333, 90345.78333333334)
+2024-11-15, ('long_entries=[89989.2, 89988.0, 89902.6, 90818.9, 90684.4, 91536.7, 89225.9, 89559.9, 88262.5]', 'short_entries=[90145.3, 89902.6, 89336.2, 90595.0, 91298.1, 90797.5, 89142.2, 87668.6]', 89996.45555555556, 89860.6875)

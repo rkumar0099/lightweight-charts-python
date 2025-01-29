@@ -1,0 +1,228 @@
+Unnamed: 0                        0
+date            2025-01-01 08:00:00
+open                        93548.8
+high                        93599.9
+low                         93514.2
+close                       93599.9
+volume                       71.187
+quote_volume            6658941.517
+Name: 0, dtype: object
+date              2025-01-01 11:59:00
+open                          93548.8
+high                          94449.2
+low                           93460.2
+close                         93810.0
+volume                      13962.019
+quote_volume          1311013770.8959
+weighted_value      1311123871.822866
+dtype: object
+high_t=08:59:00, low_t=08:12:00
+date              2025-01-01 15:59:00
+open                          93810.0
+high                          93914.7
+low                           93502.0
+close                         93660.7
+volume                       7852.483
+quote_volume           735674231.9001
+weighted_value       735718501.728067
+dtype: object
+high_t=13:30:00, low_t=12:59:00
+date              2025-01-01 19:59:00
+open                          93660.7
+high                          93735.2
+low                           92796.5
+close                         93420.1
+volume                      19004.988
+quote_volume        1773124210.657002
+weighted_value      1773493533.192799
+dtype: object
+high_t=16:06:00, low_t=17:26:00
+date              2025-01-01 23:59:00
+open                          93420.1
+high                          94489.5
+low                           93375.0
+close                         94409.9
+volume                      22127.069
+quote_volume          2079473769.9962
+weighted_value      2081968375.244534
+dtype: object
+high_t=23:58:00, low_t=20:13:00
+long_entries=[94409.9], short_entries=[], open=('2025-01-01', 93420.1, '20:00:00'), high_p=(94489.5, '23:58:00'), low_p=(93375.0, '20:13:00'), close_p=('2025-01-01', 94409.9, '23:59:00'), shorts_opened=0, longs_opened=1
+94409.9, 0
+date              2025-01-02 03:59:00
+open                          94409.9
+high                          94823.2
+low                           93729.2
+close                         94612.1
+volume                      14907.698
+quote_volume        1404832252.726001
+weighted_value      1407110283.440334
+dtype: object
+high_t=03:49:00, low_t=01:18:00
+long_entries=[94409.9], short_entries=[], open=('2025-01-01', 94409.9, '00:00:00'), high_p=(94823.2, '03:49:00'), low_p=(93729.2, '01:18:00'), close_p=('2025-01-02', 94612.1, '03:59:00'), shorts_opened=0, longs_opened=1
+94409.9, 0
+date              2025-01-02 07:59:00
+open                          94612.1
+high                          95161.2
+low                           94522.1
+close                         94580.9
+volume                      13382.403
+quote_volume          1268497143.5999
+weighted_value      1268046027.624199
+dtype: object
+high_t=05:23:00, low_t=07:36:00
+long_entries=[94409.9], short_entries=[], open=('2025-01-01', 94612.1, '04:00:00'), high_p=(95161.2, '05:23:00'), low_p=(94522.1, '07:36:00'), close_p=('2025-01-02', 94580.9, '07:59:00'), shorts_opened=0, longs_opened=1
+94409.9, 0
+date              2025-01-02 11:59:00
+open                          94580.9
+high                          95523.5
+low                           94357.4
+close                         95000.0
+volume                      22798.717
+quote_volume          2166316138.2363
+weighted_value        2164973005.9351
+dtype: object
+high_t=09:07:00, low_t=08:18:00
+date              2025-01-02 15:59:00
+open                          95000.0
+high                          96031.4
+low                           94971.3
+close                         95815.3
+volume                      20140.275
+quote_volume          1925767685.4398
+weighted_value      1925531131.650001
+dtype: object
+high_t=12:47:00, low_t=12:06:00
+long_entries=[94409.9, 95815.3], short_entries=[], open=('2025-01-01', 95000.0, '12:00:00'), high_p=(96031.4, '12:47:00'), low_p=(94971.3, '12:06:00'), close_p=('2025-01-02', 95815.3, '15:59:00'), shorts_opened=0, longs_opened=1
+95112.6, 0
+date              2025-01-02 19:59:00
+open                          95815.4
+high                          96870.9
+low                           95612.5
+close                         96715.4
+volume                      25249.289
+quote_volume        2433763740.820201
+weighted_value        2434021359.8844
+dtype: object
+high_t=19:08:00, low_t=16:32:00
+long_entries=[94409.9, 95815.3], short_entries=[], open=('2025-01-01', 95815.4, '16:00:00'), high_p=(96870.9, '19:08:00'), low_p=(95612.5, '16:32:00'), close_p=('2025-01-02', 96715.4, '19:59:00'), shorts_opened=0, longs_opened=1
+95112.6, 0
+date              2025-01-02 23:59:00
+open                          96715.4
+high                          97440.0
+low                           95910.8
+close                         96428.5
+volume                      52717.632
+quote_volume        5096343826.661903
+weighted_value      5092159499.539202
+dtype: object
+high_t=22:32:00, low_t=22:04:00
+long_entries=[94409.9, 95815.3], short_entries=[], open=('2025-01-01', 96715.4, '20:00:00'), high_p=(97440.0, '22:32:00'), low_p=(95910.8, '22:04:00'), close_p=('2025-01-02', 96428.5, '23:59:00'), shorts_opened=0, longs_opened=1
+95112.6, 0
+date              2025-01-03 03:59:00
+open                          96428.5
+high                          97777.0
+low                           96018.7
+close                         97292.7
+volume                      44624.753
+quote_volume        4331509961.103001
+weighted_value      4329915983.721734
+dtype: object
+high_t=03:25:00, low_t=00:04:00
+long_entries=[94409.9, 95815.3], short_entries=[], open=('2025-01-01', 96428.5, '00:00:00'), high_p=(97777.0, '03:25:00'), low_p=(96018.7, '00:04:00'), close_p=('2025-01-03', 97292.7, '03:59:00'), shorts_opened=0, longs_opened=1
+95112.6, 0
+date              2025-01-03 07:59:00
+open                          97292.7
+high                          97822.4
+low                           96642.7
+close                         96967.5
+volume                      16114.829
+quote_volume          1566672217.4134
+weighted_value      1565462171.341799
+dtype: object
+high_t=04:21:00, low_t=06:23:00
+long_entries=[94409.9, 95815.3], short_entries=[], open=('2025-01-01', 97292.7, '04:00:00'), high_p=(97822.4, '04:21:00'), low_p=(96642.7, '06:23:00'), close_p=('2025-01-03', 96967.5, '07:59:00'), shorts_opened=0, longs_opened=1
+95112.6, 0
+date              2025-01-03 11:59:00
+open                          96967.6
+high                          97325.7
+low                           96622.0
+close                         97019.1
+volume                      11388.626
+quote_volume        1104019924.500699
+weighted_value      1104570687.872266
+dtype: object
+high_t=10:20:00, low_t=09:17:00
+date              2025-01-03 15:59:00
+open                          97019.1
+high                          97034.9
+low                           96236.6
+close                         96275.0
+volume                      14493.689
+quote_volume          1399643537.4913
+weighted_value        1398865640.6795
+dtype: object
+high_t=12:00:00, low_t=15:41:00
+date              2025-01-03 19:59:00
+open                          96275.1
+high                          96788.0
+low                           96061.5
+close                         96710.5
+volume                      16109.732
+quote_volume        1553404601.363999
+weighted_value          1554911332.64
+dtype: object
+high_t=19:25:00, low_t=17:00:00
+date              2025-01-03 23:59:00
+open                          96710.4
+high                          97637.7
+low                           96422.5
+close                         97479.5
+volume                      33904.407
+quote_volume        3288392175.787802
+weighted_value      3294826881.819301
+dtype: object
+high_t=23:46:00, low_t=21:20:00
+long_entries=[94409.9, 95815.3, 97479.5], short_entries=[], open=('2025-01-01', 96710.4, '20:00:00'), high_p=(97637.7, '23:46:00'), low_p=(96422.5, '21:20:00'), close_p=('2025-01-03', 97479.5, '23:59:00'), shorts_opened=0, longs_opened=1
+95901.56666666667, 0
+date              2025-01-04 03:59:00
+open                          97479.6
+high                          98949.0
+low                           97353.6
+close                         98545.5
+volume                      36541.023
+quote_volume          3589180241.4712
+weighted_value      3591350401.202099
+dtype: object
+high_t=03:19:00, low_t=00:11:00
+long_entries=[94409.9, 95815.3, 97479.5], short_entries=[], open=('2025-01-01', 97479.6, '00:00:00'), high_p=(98949.0, '03:19:00'), low_p=(97353.6, '00:11:00'), close_p=('2025-01-04', 98545.5, '03:59:00'), shorts_opened=0, longs_opened=1
+95901.56666666667, 0
+date              2025-01-04 07:59:00
+open                          98545.6
+high                          98705.0
+low                           98028.5
+close                         98145.7
+volume                      12783.197
+quote_volume          1256867787.7063
+weighted_value      1256499634.934134
+dtype: object
+high_t=04:24:00, low_t=07:30:00
+long_entries=[94409.9, 95815.3, 97479.5], short_entries=[], open=('2025-01-01', 98545.6, '04:00:00'), high_p=(98705.0, '04:24:00'), low_p=(98028.5, '07:30:00'), close_p=('2025-01-04', 98145.7, '07:59:00'), shorts_opened=0, longs_opened=1
+95901.56666666667, 0
+date              2025-01-04 07:59:00
+open                          98545.6
+high                          98705.0
+low                           98028.5
+close                         98145.7
+volume                      12783.197
+quote_volume          1256867787.7063
+weighted_value      1256499634.934134
+dtype: object
+high_t=04:24:00, low_t=07:30:00
+long_entries=[94409.9, 95815.3, 97479.5], short_entries=[], open=('2025-01-01', 98545.6, '04:00:00'), high_p=(98705.0, '04:24:00'), low_p=(98028.5, '07:30:00'), close_p=('2025-01-04', 98145.7, '07:59:00'), shorts_opened=0, longs_opened=1
+95901.56666666667, 0
+long_entries=3, short_entries=0, open=('2025-01-01', 98545.6, '04:00:00'), high_p=(98705.0, '04:24:00'), low_p=(98028.5, '07:30:00'), close_p=('2025-01-04', 98145.7, '07:59:00')
+2025-01-01, ('long_entries=[94409.9]', 'short_entries=[]', 94409.9, 0)
+2025-01-02, ('long_entries=[95815.3]', 'short_entries=[]', 95112.6, 0)
+2025-01-03, ('long_entries=[97479.5]', 'short_entries=[]', 95901.56666666667, 0)
+2025-01-04, ('long_entries=[97479.5]', 'short_entries=[]', 95901.56666666667, 0)
